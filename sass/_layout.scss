@@ -7,9 +7,14 @@
   min-height: 50rem;
 }
 .header {
+  font-size: 1.4rem;
   height: 7rem;
   background-color: white;
   border-bottom: var(--color-grey-light-2);
+
+  display: flex;
+  justify-content: space-between; // align left to right
+  align-items: center; // align items top to bottom
 }
 .content {
   display: flex;
