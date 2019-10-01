@@ -1,4 +1,4 @@
-# Nexter
+# Trillo
 
 Complete HTML, CSS & SASS project that uses advance CSS with design patterns like Block Element Modifier that primarly focus on Flexbox
 
